@@ -1,4 +1,4 @@
-## Hi, I’m Eren Ekmekcioglu.
+## Hi, I’m Eren E.
 
 I work in IT and software development and enjoy building simple, practical digital solutions. I like turning ideas into working systems and improving processes so they become clearer and easier to use.
 
